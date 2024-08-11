@@ -35,10 +35,13 @@
 2. **Add Rivets**:
    - Switch back to Object Mode.
    - Open the 3D Viewport and find the "Generate Rivets" panel under the `Tool` tab.
-   ![panel](https://github.com/user-attachments/assets/a0c4274b-40c5-44da-bbb4-490b49be36fd)
+
+    ![panel](https://github.com/user-attachments/assets/a0c4274b-40c5-44da-bbb4-490b49be36fd)
+
    - Click the "Generate Rivets" button to place the rivets along the selected edges.
    - Configure the `Rivet Object Name` (the name of the object to be used as the rivet) and `Spacing` (distance between rivets).
-   ![parameters](https://github.com/user-attachments/assets/210bcd4f-2518-4246-b4a0-e7ce8f105f2f)
+
+    ![parameters](https://github.com/user-attachments/assets/210bcd4f-2518-4246-b4a0-e7ce8f105f2f)
 
 
 ## Example
